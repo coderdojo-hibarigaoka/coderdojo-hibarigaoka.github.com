@@ -1,5 +1,5 @@
 # CoderDojo Hibarigaoka
-This is the repository for managing CoderTokyo Hibarigaoka's website. 
+This is the repository for managing CoderDojo Hibarigaoka's website. 
 
 このリポジトリは、CoderDojo Hibarigaokaのウェブサイトを管理するためのものです。
 
